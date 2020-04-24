@@ -1,0 +1,1 @@
+<view><view hidden="{{!(false)}}">v-show</view><block wx:if="{{false}}"><view>v-if</view></block><view>xxxx</view></view>
